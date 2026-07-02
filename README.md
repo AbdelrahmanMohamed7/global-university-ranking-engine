@@ -65,23 +65,3 @@ g++ -std=c++11 *.cpp -o data_engine
 4. Execute the production console executable target:
 ```bash
 ./data_engine
-
-```
-
-
-
----
-
-## 🖥️ System Interface Sandbox Preview
-
-```text
-==================================================
-   GLOBAL UNIVERSITY RANKING PERFORMANCE ENGINE   
-==================================================
-1. Anonymous Data Directory Interface
-2. Register Personal Analytics Profile
-3. System Admin Administrative Operations
-4. Authenticate Profile
-5. Terminate Engine Stream
-==================================================
-Enter Session Input Vector (1-5): 
